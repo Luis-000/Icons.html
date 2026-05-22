@@ -1,0 +1,36 @@
+.icons{
+    text-align: center;
+}
+
+.fa-house {
+    color: hsl(0, 3%, 71%);
+}   
+.fa-house:hover {
+    color: hsl(0, 3%, 81%);
+}  
+
+.fa-x-twitter{
+    color: hsl(195, 53%, 79%);
+}
+.fa-x-twitter:hover{
+    color: hsl(195, 53%, 89%);
+}
+
+.fa-youtube {
+    color: hsl(0, 79%, 72%);
+}
+.fa-youtube:hover {
+    color: hsl(0, 79%, 82%);
+}
+
+.fa-tiktok{
+    color: hsl(0, 0%, 16%);
+}
+.fa-tiktok:hover{
+    color: hsl(0, 0%, 36%);
+}
+
+.icons a{
+    text-decoration: none;
+    margin-right: 20px;
+}
